@@ -1,0 +1,32 @@
+.wd{
+    width: 100%;
+    height: 700px;
+}
+
+.br{
+    color: purple;
+    border-radius: 10px;
+    box-shadow: 20px 22px 16px #077b04;
+}
+
+.rb{
+    border-radius: 10px;
+    box-shadow: 20px 22px 16px crimson;
+}
+
+.mm{
+margin: 10px 10px 10px 10px;
+}
+
+.ml{
+    margin: 60px;
+}
+
+.wh{
+    width: 90%;
+}
+
+.swws{
+    color: coral;
+    margin: 300px;
+}
